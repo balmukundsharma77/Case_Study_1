@@ -25,13 +25,3 @@ This repository contains architecture, FinOps analysis, migration strategy, cuto
 - Enterprise Data Integrity
 - Automation Readiness
 
-## Interview Walkthrough
-
-- Executive Summary
-- Architecture Diagram
-- Migration Strategy
-- Decision Matrix
-- FinOps Analysis
-- Cutover & Rollback
-- Data Integrity
-- Automation
